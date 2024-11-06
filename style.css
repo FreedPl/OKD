@@ -1,0 +1,17 @@
+body{
+    background-color: whitesmoke;
+}
+
+
+#output {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+}
