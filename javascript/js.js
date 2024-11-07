@@ -5,10 +5,10 @@ function task1() {
     let user = {};
     output.innerHTML += "Створений пустий об'єкт: " + JSON.stringify(user) + "<br>";
 
-    user.name = "John";
+    user.name = "Sanik";
     output.innerHTML += "Додане ім'я: " + user.name + "<br>";
 
-    user.surname = "Smith";
+    user.surname = "Kavun";
     output.innerHTML += "Додане Призвіще: " + user.surname + "<br>";
 
     user.name = "Pete";
