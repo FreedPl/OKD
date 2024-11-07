@@ -60,9 +60,9 @@ function task4() {
     output.innerHTML = "Четверте завдання<br>";
 
     let salaries = {
-        John: 100,
-        Ann: 160,
-        Pete: 130
+        John: 140,
+        Ann: 200,
+        Pete: 200
     };
 
     output.innerHTML += "Зарплата Джона: " + salaries.John + "<br>";
