@@ -1,6 +1,6 @@
 
 function task5_first() {
-    document.getElementById('output').innerHTML = "Завдання 1: " + firstLetterUppercase("Дімасік");
+    document.getElementById('output').innerHTML = "Завдання 1: " + firstLetterUppercase("дімасік");
 }
 
 
